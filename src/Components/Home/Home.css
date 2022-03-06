@@ -1,0 +1,9 @@
+.header a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(205, 92, 92);
+    padding: 10px 190px;
+    margin-left: 460px;
+    border-radius:5px;
+}
